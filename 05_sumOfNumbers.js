@@ -18,7 +18,7 @@
 
 // Solution
 // 1. return either of the numbers if they're equal
-// 2. determine wich of the numbers is min and max
+// 2. determine which of the numbers is min and max
 // 3. set an accumulator to 0
 // 3. add all the numbers between min and max into the accumulator
 // 4. return the accumulator
