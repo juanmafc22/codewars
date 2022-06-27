@@ -8,10 +8,10 @@
 // function moveZeros(arr) {
 // 
 // use two filters?
-// use the first filter to remove all the zeros and leave the array clean, load
+// use the first filter to remove all the zeros and leave the array clean,  then load
 // all the values into a new array
 
-// use the second filter to remove all the zeros and move them to a seconda array
+// use the second filter to remove all the zeros and move them to a second array
 
 // join the two arrays with a concat()
 
