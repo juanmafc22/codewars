@@ -1,11 +1,10 @@
-// SOLVED 2022-06-03
+// Solved 2022-06-03
 
 // Write an algorithm that takes an array and moves all of the zeros to the end, 
 // preserving the order of the other elements.
 // 
 // moveZeros([false,1,0,1,2,0,1,3,"a"]) // returns[false,1,1,2,1,3,"a",0,0]
 
-// function moveZeros(arr) {
 // 
 // use two filters?
 // use the first filter to remove all the zeros and leave the array clean,  then load
