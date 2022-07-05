@@ -12,9 +12,11 @@
 
 function friend(friends){
 
-    return friends.filter(friend => {
+    const result = friends.filter(friend => {
         return friend.length == 4;
     })
+
+    return result;
 
 }
 
