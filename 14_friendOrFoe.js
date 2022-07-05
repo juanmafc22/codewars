@@ -7,8 +7,9 @@
 // you can be sure that it has to be a friend of yours! Otherwise, you can be sure he's not...
 
 // Solution
-// Create a new array filtering all the elements of friends array that have a length
-// of 4 characters
+// 1. Create a new array filtering all the elements of friends array that have a length
+// of 4 characters.
+// 2. Return that array
 
 function friend(friends){
 
