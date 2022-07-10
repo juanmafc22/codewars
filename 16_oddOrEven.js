@@ -4,7 +4,7 @@
 // Give your answer as a string matching "odd" or "even".
 // If the input array is empty consider it as: [0] (array with a zero).
 
-// Solution
+// Solution -- using this as a test
 // 1. Use the redude method to add all the elements of array
 // 2. Return "odd" or "even" depending if the sume %2 is equal to zero
 
