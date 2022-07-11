@@ -1,4 +1,4 @@
-// Solved 2022-07-05
+// Solved 2022-07-05.
 
 // Simple, remove the spaces from the string, then return the resultant string.
 

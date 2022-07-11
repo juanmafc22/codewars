@@ -6,7 +6,7 @@
 
 // Solution -- using this as a further test on nuel 3
 // 1. Use the redude method to add all the elements of array
-// 2. Return "odd" or "even" depending if the sume %2 is equal to zero
+// 2. Return "odd" or "even" depending if the sume %2 is equal to zero.
 
 function oddOrEven(array) {
 
