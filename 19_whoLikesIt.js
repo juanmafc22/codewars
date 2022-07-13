@@ -38,11 +38,6 @@ function likes(names) {
 
 console.log(likes(['Jacob', 'Alex', 'Juan', 'Manuel', 'Nico', 'Peter', 'Andrew']));
 
-// Samples
-// console.log(likes(['Jacob']));
-// console.log(likes(['Jacob', 'Alex']));
-// console.log(likes(['Jacob', 'Alex', 'Karen']));
-// console.log(likes(['Jacob', 'Alex', 'Karen', 'Micki']));
 
 
 // Samples
