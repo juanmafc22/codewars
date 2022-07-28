@@ -10,7 +10,7 @@
 // "("               =>  false
 // "(())((()())())"  =>  true
 
-// Solutin
+// Solution
 // 1. Define a hashmp, where the keys are the opening brackets and the values are the
 // corresponding closing brackets, (:), [:] and {:}
 // 2. Define a stack represented as an array
